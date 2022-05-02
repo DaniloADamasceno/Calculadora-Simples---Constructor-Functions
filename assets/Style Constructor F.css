@@ -1,0 +1,95 @@
+
+:root {
+  --primary-color: #1f2f3a;
+  --secondary-color: #391b4a;
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1F2F3A;
+  background-image: url(./img/large-triangles.svg); 
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+h1 {
+ text-transform: uppercase;
+ font-family: Montserrat;
+ color: var(--secondary-color);
+ text-align:center
+}
+
+.container {
+  max-width: 640px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+form input, form label, form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 24px;
+  height: 50px;      
+  padding: 0 20px;
+}
+
+input:focus {
+  outline: 1px solid var(--primary-color);
+}
+
+form button {
+  border: none;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  height: 50px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+form button:hover {
+  background: var(--secondary-color);
+}
+
+.calculadora {
+  width: 600px;
+  align-items: center;
+  text-align:center
+
+}
+
+.display {
+  font-size: 2.7em;
+  width: 100%;
+  text-align: right;
+}
+
+.btn {
+  width: 100%;
+  height: 50px;
+  font-size: 1em;
+  border: none;
+  background: #dfdfdf;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #9e9e9e;
+}
+.btn-eq:hover {
+  background-color: var(--secondary-color);
+}
