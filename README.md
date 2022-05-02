@@ -12,7 +12,7 @@ Este projeto foi criado para colocar em pratica os conhecimentos adquiridos em H
 o projeto encontra-se hospedado no link abaixo:
 
 
-https://calculadora101simples.netlify.app/
+https://calcconstructorfunctions.netlify.app/
 
 Tecnologias utilizadas 
 
