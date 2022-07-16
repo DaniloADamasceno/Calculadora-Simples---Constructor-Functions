@@ -3,16 +3,16 @@
 
 # Calculadora-Simples
 
+![Calculadora Simples - Constructor functions](https://user-images.githubusercontent.com/71226047/179368586-9b7ca534-59ff-4c0b-8207-d2633c3892da.jpg)
 
 
-
-Este projeto foi criado para colocar em pratica os conhecimentos adquiridos em HTML, CSS e principalmente em  Javascript.
+Este projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e principalmente em  Javascript.
   O objetivo deste projeto e o desenvolvimento de uma calculadora simples afim de aprimorar a utilização de Constructor Functions do Javascript 
 
 o projeto encontra-se hospedado no link abaixo:
 
 
-https://calcconstructorfunctions.netlify.app/
+[Calculadora Simples com Construction Functions](https://calcconstructorfunctions.netlify.app/)
 
 Tecnologias utilizadas 
 
@@ -28,4 +28,8 @@ Tecnologias utilizadas
 
 
 ______________________________________________________________________________________________________________________________________________________________
-Atualizações do Projeto 
+# Atualizações de Projeto 
+
+ *Atualização* 1.01 :
+> Adicionada imagem ao Readme e correções gramaticais.
+
