@@ -3,6 +3,9 @@
 
 # Calculadora-Simples
 
+![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Calculadora-Simples---Constructor-Functions?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Calculadora-Simples---Constructor-Functions?style=for-the-badge)
+
 ![Calculadora Simples - Constructor functions](https://user-images.githubusercontent.com/71226047/179368586-9b7ca534-59ff-4c0b-8207-d2633c3892da.jpg)
 
 
@@ -27,9 +30,14 @@ Tecnologias utilizadas
 •      ![GoogleFonts Status](https://img.shields.io/badge/Google-Fonts-green)
 
 
+## Autores
+
+- [@DaniloADamasceno](https://github.com/DaniloADamasceno)
+
+
 ______________________________________________________________________________________________________________________________________________________________
 # Atualizações de Projeto 
 
- *Atualização* 1.01 :
+ *Atualização* 1.01 e 1.11:
 > Adicionada imagem ao Readme e correções gramaticais.
 
