@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Calculadora-Simples---Constructor-Functions?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Calculadora-Simples---Constructor-Functions?style=for-the-badge)
 
-[![wakatime](https://wakatime.com/badge/github/DaniloADamasceno/Calculadora-Simples---Constructor-Functions.svg)](https://wakatime.com/badge/github/DaniloADamasceno/Calculadora-Simples---Constructor-Functions)
+[![Repository Views](https://komarev.com/ghpvc/?username=DaniloADamascenoCalculadora&label=Views&color=brightgreen)](https://github.com/DaniloADamasceno/Calculadora-Simples---Constructor-Functions)
 
 <!-- Imagem da Tela inicial do Aplicativo -->
 <div align="center">
@@ -19,7 +19,7 @@
 </br>
 </br>
 
-## Descrição do Projeto
+### 📃 Descrição do Projeto
 
 </br>
 
@@ -34,7 +34,8 @@ Este projeto foi criado para colocar em prática os conhecimentos adquiridos em 
   
  </div>
 
-### Contribuição
+
+## 📦 Contribuição
 
 Este é um projeto de código aberto e estou aberto a contribuições da comunidade.
 Se desejar contribuir para este projeto, siga estas etapas:
@@ -46,30 +47,36 @@ Se desejar contribuir para este projeto, siga estas etapas:
 5. Envie para o branch principal do repositório original: *git push origin main*.
 6. Abra um pull request no GitHub.
 
-## Stack utilizada
+## 🛠️ Stack utilizadas
 
 ![HTML Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Status](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![GoogleFonts Status](https://img.shields.io/badge/Google-Fonts-green)
 
-**Hospedagem:**     [![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
+**Hospedagem:**    
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
 
 </br>
 
-## Autores
 
-- [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
+## ✒️ Autores
 
-</br>
-</br>
-</br>
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-________________________________________________________________________________________________________________________________________________________________
+* **Desenvolvedor** -  [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
+* **Documentação** -   [@Danilo A. Damasceno](https://github.com/DaniloADamasceno/)
 
-## Atualizações do Projeto
 
- *Atualização* 1.01 | 1.11 e 1.12:
-> Adicionada imagem ao Readme e correções gramaticais.
-> --> **PROJETO EM CONCLUÍDO.**
+</br></br></br>
+</hr>
+
+## 📄 Atualizações de Projeto e suas Versões
+
+
+### **Atualização**: 1.0.0 | 1.0.1 | 1.0.2
+
+- Adicionada imagem ao Readme e correções gramaticais.
+- --> **PROJETO EM CONCLUÍDO.**
 </br>
